@@ -1,116 +1,74 @@
-# Λ | Dotfiles
+# Σ | Dotfiles
 
-*"Personal Linux desktop configurations."*
+*"My personal Linux configurations."*
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/NixOS-System-7E9CD8?style=for-the-badge">
-<img src="https://img.shields.io/badge/Neovim-Editor-76946A?style=for-the-badge">
-<img src="https://img.shields.io/badge/Waybar-StatusBar-E6C384?style=for-the-badge">
-<img src="https://img.shields.io/badge/Alacritty-Terminal-7FB4CA?style=for-the-badge">
-
+  <img src="https://img.shields.io/badge/NixOS-System-7E9CD8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Neovim-Editor-76946A?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Waybar-StatusBar-E6C384?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Fuzzel-Launcher-7AA89F?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Kanagawa-Theme-957FB8?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Gruvbox-Theme-D79921?style=for-the-badge">
+  <img src="https://img.shields.io/badge/TokyoNight-Theme-7AA2F7?style=for-the-badge">
 </p>
 
 ---
 
-## Ⅰ | Themes
+## 🛠 | Applications
 
-<table>
-<tr>
-<td align="center">
-
-### 🌊 Kanagawa
-
-Dark theme inspired by traditional Japanese colors.
-
-</td>
-
-<td align="center">
-
-### 🌲 Gruvbox
-
-Warm retro groove color palette.
-
-</td>
-
-<td align="center">
-
-### 🌃 Tokyo Night
-
-Clean blue night-time aesthetic.
-
-</td>
-</tr>
-</table>
+* **Terminal:** Alacritty
+* **Launcher:** Fuzzel
+* **Editor:** Neovim
+* **Bar:** Waybar
 
 ---
 
-## Ⅱ | Included Configurations
+## 🎨 | Themes
 
-* **Alacritty**
-* **Fuzzel**
-* **Neovim**
-* **Waybar**
+<details>
+  <summary><strong>🌊 Kanagawa</strong></summary>
 
----
+  <br>
 
-## Ⅲ | Repository Layout
-
-```text
-.
-├── Gruvbox
-│   ├── alacritty
-│   ├── fuzzel
-│   ├── nvim
-│   └── waybar
-│
-├── Kanagawa
-│   ├── alacritty
-│   ├── fuzzel
-│   ├── nvim
-│   └── waybar
-│
-└── Tokyo Night
-    ├── alacritty
-    ├── fuzzel
-    ├── nvim
-    └── waybar
-```
-
----
-
-## Ⅳ | Preview
-
-### 🌊 Kanagawa
-
-<p align="center">
   <img src="assets/kanagawa.png" width="100%">
-</p>
 
-### 🌲 Gruvbox
+  <br>
 
-<p align="center">
+* Alacritty
+* Fuzzel
+* Neovim
+* Waybar
+
+</details>
+
+<details>
+  <summary><strong>🌲 Gruvbox</strong></summary>
+
+  <br>
+
   <img src="assets/gruvbox.png" width="100%">
-</p>
 
-### 🌃 Tokyo Night
+  <br>
 
-<p align="center">
+* Alacritty
+* Fuzzel
+* Neovim
+* Waybar
+
+</details>
+
+<details>
+  <summary><strong>🌃 Tokyo Night</strong></summary>
+
+  <br>
+
   <img src="assets/tokyonight.png" width="100%">
-</p>
 
----
+  <br>
 
-## Ⅴ | Installation
+* Alacritty
+* Fuzzel
+* Neovim
+* Waybar
 
-```bash
-git clone https://github.com/zLuuzis/dotfiles.git
-```
-
-Copy the desired theme into your `~/.config` directory.
-
----
-
-## Ω | Notes
-
-These configurations are maintained primarily for personal use and may change frequently.
+</details>
