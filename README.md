@@ -16,10 +16,10 @@
 
 ## 🛠 | Applications
 
-* **Terminal:** Alacritty
-* **Launcher:** Fuzzel
-* **Editor:** Neovim
-* **Bar:** Waybar
+- **Terminal:** Alacritty
+- **Launcher:** Fuzzel
+- **Editor:** Neovim
+- **Bar:** Waybar
 
 ---
 
@@ -30,14 +30,14 @@
 
   <br>
 
-  <img src="assets/kanagawa.png" width="100%">
+  <img src="screenshots/kanagawa.png" width="100%">
 
   <br>
 
-* Alacritty
-* Fuzzel
-* Neovim
-* Waybar
+  - Alacritty
+  - Fuzzel
+  - Neovim
+  - Waybar
 
 </details>
 
@@ -46,14 +46,14 @@
 
   <br>
 
-  <img src="assets/gruvbox.png" width="100%">
+  <img src="screenshots/gruvbox.png" width="100%">
 
   <br>
 
-* Alacritty
-* Fuzzel
-* Neovim
-* Waybar
+  - Alacritty
+  - Fuzzel
+  - Neovim
+  - Waybar
 
 </details>
 
@@ -62,13 +62,15 @@
 
   <br>
 
-  <img src="assets/tokyonight.png" width="100%">
+  <img src="screenshots/tokyo_night.png" width="100%">
+
+  <img src="screenshots/vim_tokyo.png" width="100%">
 
   <br>
 
-* Alacritty
-* Fuzzel
-* Neovim
-* Waybar
+  - Alacritty
+  - Fuzzel
+  - Neovim
+  - Waybar
 
 </details>
