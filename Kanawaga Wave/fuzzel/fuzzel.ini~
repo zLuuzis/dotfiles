@@ -1,0 +1,25 @@
+# ~/.config/fuzzel/fuzzel.ini
+
+[main]
+font=JetBrainsMono Nerd Font:size=14
+dpi-aware=yes
+terminal=alacritty
+layer=overlay
+width=25
+icon-theme=Gruvbox-Plus-Dark
+lines=10
+
+[colors]
+background=282828dd
+text=ebdbb2ff
+match=d79921ff
+
+selection=3c3836ff
+selection-text=ebdbb2ff
+selection-match=fabd2fff
+
+border=b16286ff
+
+[border]
+width=2
+radius=3
